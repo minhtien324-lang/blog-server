@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.COMMENT_CREATED = exports.FORBIDDEN = exports.WRONG_ACCOUNT_INFO = exports.PASSWORD_FAIL = exports.EMAIL_ALREADY_EXISTS = exports.USER_REMOVED = exports.USER_UPDATED = exports.USER_CREATED = void 0;
+exports.USER_CREATED = 'Tạo tài khoản thành công';
+exports.USER_UPDATED = 'Sửa thông tin tài khoản thành công';
+exports.USER_REMOVED = 'Xoá tài khoản thành công';
+exports.EMAIL_ALREADY_EXISTS = 'Email này đã được đăng ký';
+exports.PASSWORD_FAIL = 'Mật khẩu phải gồm ít nhất 8 kí tự, trong đó có ít nhất một chữ cái và một chữ số';
+exports.WRONG_ACCOUNT_INFO = 'Thông tin tài khoản không chính xác';
+exports.FORBIDDEN = 'Bạn không có quyền truy cập địa chỉ này';
+exports.COMMENT_CREATED = 'Bình luận thành công';
